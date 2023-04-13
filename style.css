@@ -1,0 +1,63 @@
+header {
+  background-color: lightskyblue;
+  width: 100%;
+  padding: 10px 0 10px 0;
+}
+header .myimg {
+  display: flex;
+  justify-content: center;
+}
+header img {
+  width: 150px;
+  display: block;
+  margin: auto;
+  border-radius: 50%;
+}
+header p {
+  text-align: center;
+}
+
+.myprofile {
+  padding: 50px;
+}
+.myprofile h1 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.school {
+  padding: 50px;
+}
+.school h2 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.skill-area {
+  background-color: lightskyblue;
+  padding: 15px;
+  margin-top: 50px;
+}
+.skill-area h3 {
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.skill-area ul {
+  text-align: center;
+  margin-right: 30px;
+  font-size: 20px;
+}
+
+.work-area {
+  padding: 50px;
+}
+.work-area .design-program p {
+  color: blue;
+  padding: 20px;
+}
+
+.representative-area {
+  padding: 50px;
+}
+.representative-area p {
+  color: blue;
+  padding: 20px;
+}/*# sourceMappingURL=style.css.map */
